@@ -1,4 +1,4 @@
-                    Heyy! I'm Madhav🙋🏻‍♂️
+<h1 align="center">Heyy!! I'm Madhav✌🏻</h1>
 <!--
 **Madhavarora05/Madhavarora05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavarora05&theme=dark)
-[![GitHub Game of Life](https://github4life.herokuapp.com/Madhavarora05.gif?z=6)](https://github4life.herokuapp.com/Madhavarora05)
+<div align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavarora05&theme=dark)</div>
+<div align="center">[![GitHub Game of Life](https://github4life.herokuapp.com/Madhavarora05.gif?z=6)](https://github4life.herokuapp.com/Madhavarora05)</div>

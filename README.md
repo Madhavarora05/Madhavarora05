@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavarora05&theme=dark)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Madhavarora05.gif?z=6)](https://github4life.herokuapp.com/Madhavarora05)

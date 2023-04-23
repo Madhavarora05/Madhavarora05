@@ -1,7 +1,7 @@
 <p><h1 align="center">Heyy!! I'm Madhav✌🏻</h1></p>
 
 
-<div align="center"><h2 align="center" style="margin: 5px 10px;">Github stats</h2> <br><a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=synthwave" alt="Madhav's github stats" /></a>
+<div ><h2 align="center" style="margin: 5px 5px;">Github stats</h2> <br><a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=synthwave" alt="Madhav's github stats" /></a>
 <a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavarora05&theme=synthwave" /></a></div><br>
 
 

@@ -1,7 +1,11 @@
 <p><h1 align="center">Heyy!! I'm Madhav✌🏻</h1></p>
-<div align="center"><a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhav's github stats" /></a>
-<a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavarora05&layout=compact&theme=buefy&hide_border=true" /></a></div><br>
-<div align="center"><a href="https://github4life.herokuapp.com/Madhavarora05"><img align="center" src="https://github4life.herokuapp.com/Madhavarora05.gif?z=6" alt="Madhav's github stats" /></a></div>
+
+
+<div align="center"><h2 align="center" style="margin: 5px 10px;">Github stats</h2> <br><a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=synthwave" alt="Madhav's github stats" /></a>
+<a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavarora05&theme=synthwave" /></a></div><br>
+
+
+<div align="center"><h2 align="center" style="margin: 5px 10px;">Contribution</h2><a href="https://github4life.herokuapp.com/Madhavarora05"><img align="center" src="https://github4life.herokuapp.com/Madhavarora05.gif?z=6" alt="Madhav's github stats" /></a></div>
 <!--
 **Madhavarora05/Madhavarora05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|<a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhav's github stats" /></a> | <a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavarora05&layout=compact&theme=buefy&hide_border=true" /></a> |
-

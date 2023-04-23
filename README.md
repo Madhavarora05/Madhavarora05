@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhavarora05&theme=dark)</div>
+|<a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhavarora05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhav's github stats" /></a> | <a href="https://github.com/Madhavarora05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavarora05&layout=compact&theme=buefy&hide_border=true" /></a> |
 <div align="center">[![GitHub Game of Life](https://github4life.herokuapp.com/Madhavarora05.gif?z=6)](https://github4life.herokuapp.com/Madhavarora05)</div>

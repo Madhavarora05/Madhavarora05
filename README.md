@@ -1,4 +1,4 @@
-<p><h1 align="center">Heyy!! I'm Madhav✌🏻</h1></p>
+<p><h1 align="center">Heyy!! I'm Madhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1></p>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 

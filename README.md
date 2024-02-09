@@ -48,5 +48,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Trophies</h3>
 <div align = "center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=Madhavarora05&theme=darkhub" alt="Madhavarora05" /></a></div>
-<p>[![GitHub Game of Life](https://github4life.herokuapp.com/Madhavarora05.gif?z=6)](https://github4life.herokuapp.com/Madhavarora05)</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhavarora05/Madhavarora05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhavarora05/Madhavarora05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhavarora05/Madhavarora05/output/github-contribution-grid-snake.svg">
+</picture>
 

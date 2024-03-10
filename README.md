@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /
-<p><h1 align="center">Hii! I'm Madhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1></p
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<p><h1 align="center">Hii! I'm Madhav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhavarora05&label=Profile%20views&color=0e75b6&style=flat" alt="Madhavarora05" /> </p>
 
 - 🔭 I’m currently working on **My Analytical Skills**
